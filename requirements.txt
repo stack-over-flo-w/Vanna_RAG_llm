@@ -1,0 +1,8 @@
+pymilvus~=2.4.4
+loguru~=0.7.2
+vanna~=0.6.2
+openai~=1.35.12
+requests~=2.32.3
+pandas~=2.2.2
+mysql~=0.0.3
+mysql-connector-python~=9.0.0
